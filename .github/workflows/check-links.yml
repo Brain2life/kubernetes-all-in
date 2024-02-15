@@ -1,4 +1,4 @@
-name: Check Links in README
+name: Check links in README
 
 on:
   push:
