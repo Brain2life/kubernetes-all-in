@@ -13,8 +13,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: Install lychee link checker
-      run: cargo install lychee
-
-    - name: Check links in README.md
-      run: lychee --no-progress README.md
+    - name: Run lychee link checker using Docker
+      run: |
+        docker pull lycheeverse/lychee
+        docker run --rm -v ${{ github.workspace }}:/workspace lycheeverse/lychee /workspace/README.md
