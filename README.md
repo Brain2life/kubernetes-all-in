@@ -13,4 +13,4 @@
 - [you need to learn Kubernetes RIGHT NOW!! NetworkChuck YouTube channel](https://www.youtube.com/watch?v=7bA0gTroJjw)
 
 ### Kubernetes crash courses
-- [Kubernetes Crash Course for Absolute Beginners. TechWorld with Nana](https://www.youtube.com/watch?v=s_o8dwzRlu4)
+- [Kubernetes Crash Course for Absolute Beginners. TechWorld with Nana](https://www.youtube.com/watch?v=s_o8dwzRlu3)
