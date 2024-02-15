@@ -1,6 +1,8 @@
 
 ![](https://i.imgur.com/dh3Pl2X.png)
 
+[![Check links in README](https://github.com/Brain2life/kubernetes-all-in/actions/workflows/check-links.yml/badge.svg)](https://github.com/Brain2life/kubernetes-all-in/actions/workflows/check-links.yml)
+
 # Table of contents:
 1. [Learning](#learning)
     - [Kubernetes core concepts](#kubernetes-core-concepts)
