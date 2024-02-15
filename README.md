@@ -7,6 +7,7 @@
 1. [Learning](#learning)
     - [Kubernetes core concepts](#kubernetes-core-concepts)
     - [Kubernetes crash courses](#kubernetes-crash-courses)
+    - [Kubernetes volumes](#kubernetes-volumes)
 
 ## Learning 📖
 
@@ -18,3 +19,6 @@
 
 ### Kubernetes crash courses
 - [Kubernetes Crash Course for Absolute Beginners. TechWorld with Nana](https://www.youtube.com/watch?v=s_o8dwzRlu4)
+
+### Kubernetes volumes
+- [Kubernetes Volumes explained | Persistent Volume, Persistent Volume Claim & Storage Class Nana YouTube]()https://www.youtube.com/watch?v=0swOh5C3OVM
