@@ -8,6 +8,7 @@
     - [Kubernetes core concepts](#kubernetes-core-concepts)
     - [Kubernetes crash courses](#kubernetes-crash-courses)
     - [Kubernetes volumes](#kubernetes-volumes)
+    - [Kubernetes ingress](#kubernetes-ingress)
 
 ## Learning 📖
 
@@ -22,3 +23,6 @@
 
 ### Kubernetes volumes
 - [Kubernetes Volumes explained | Persistent Volume, Persistent Volume Claim & Storage Class Nana YouTube](https://www.youtube.com/watch?v=0swOh5C3OVM)
+
+### Kubernetes ingress
+- [Kubernetes Ingress Tutorial for Beginners | simply explained | Kubernetes Tutorial 22 Nana YouTube](https://www.youtube.com/watch?v=80Ew_fsV4rM)
