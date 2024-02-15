@@ -1,0 +1,28 @@
+name: Check README Links
+
+on:
+  push:
+    paths:
+      - 'README.md'
+
+jobs:
+  check-links:
+    runs-on: ubuntu-22.04
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Check links in README
+      run: |
+        # Install required tool
+        sudo apt-get install -y grep sed curl
+        # Extract URLs from README.md
+        grep -oP '(?<=\]\().*?(?=\))' README.md | grep http | while read url; do
+          echo "Checking URL: $url"
+          status_code=$(curl -o /dev/null -s -I -w "%{http_code}\n" "$url")
+          if [ "$status_code" -ne 200 ]; then
+            echo "Link check failed for $url with status code $status_code"
+            exit 1
+          fi
+        done
