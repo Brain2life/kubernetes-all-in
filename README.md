@@ -9,3 +9,4 @@
 
 ### Kubernetes core concepts
 - [Kubernetes Core Concepts - Pods, ReplicaSets, Deployments and Services](https://www.youtube.com/watch?v=cK1iSwfF4dM)
+- [Kubernetes Pods, ReplicaSets, and Deployments in 5 Minutes](https://www.youtube.com/watch?v=iC-WxZGhFqs)
