@@ -4,6 +4,7 @@
 # Table of contents:
 1. [Learning](#learning)
     - [Kubernetes core concepts](#kubernetes-core-concepts)
+    - [Kubernetes crash courses](#kubernetes-crash-courses)
 
 ## Learning 📖
 
