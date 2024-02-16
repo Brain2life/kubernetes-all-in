@@ -26,3 +26,4 @@
 
 ### Kubernetes ingress
 - [Kubernetes Ingress Tutorial for Beginners | simply explained | Kubernetes Tutorial 22 Nana YouTube](https://www.youtube.com/watch?v=80Ew_fsV4rM)
+- [Kubernetes Ingress Tutorial For Beginners by Bibin Wilson](https://devopscube.com/kubernetes-ingress-tutorial/)
