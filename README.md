@@ -7,6 +7,7 @@
 1. [Learning](#learning)
     - [Kubernetes core concepts](#kubernetes-core-concepts)
     - [Kubernetes crash courses](#kubernetes-crash-courses)
+    - [Kubernetes pods](#kubernetes-pods)
     - [Kubernetes volumes](#kubernetes-volumes)
     - [Kubernetes ingress](#kubernetes-ingress)
 
@@ -20,6 +21,9 @@
 
 ### Kubernetes crash courses
 - [Kubernetes Crash Course for Absolute Beginners. TechWorld with Nana](https://www.youtube.com/watch?v=s_o8dwzRlu4)
+
+### Kubernetes pods
+- [Kubernetes 101: Why Pod is the smallest deployable unit?](https://maxat-akbanov.com/kubernetes-101-why-pod-is-the-smallest-deployable-unit)
 
 ### Kubernetes volumes
 - [Kubernetes Volumes explained | Persistent Volume, Persistent Volume Claim & Storage Class Nana YouTube](https://www.youtube.com/watch?v=0swOh5C3OVM)
