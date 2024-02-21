@@ -9,6 +9,7 @@
     - [Kubernetes crash courses](#kubernetes-crash-courses)
     - [Kubernetes pods](#kubernetes-pods)
     - [Kubernetes volumes](#kubernetes-volumes)
+    - [Kubernetes networking](#kubernetes-networking)
     - [Kubernetes ingress](#kubernetes-ingress)
 
 ## Learning 📖
@@ -27,6 +28,9 @@
 
 ### Kubernetes volumes
 - [Kubernetes Volumes explained | Persistent Volume, Persistent Volume Claim & Storage Class Nana YouTube](https://www.youtube.com/watch?v=0swOh5C3OVM)
+
+### Kubernetes networking
+- [A visual guide to Kubernetes networking fundamentals](https://opensource.com/article/22/6/kubernetes-networking-fundamentals)
 
 ### Kubernetes ingress
 - [Kubernetes Ingress Tutorial for Beginners | simply explained | Kubernetes Tutorial 22 Nana YouTube](https://www.youtube.com/watch?v=80Ew_fsV4rM)
