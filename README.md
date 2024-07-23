@@ -12,6 +12,8 @@
     - [Kubernetes networking](#kubernetes-networking)
     - [Kubernetes ingress](#kubernetes-ingress)
 2. [Blogs](#blogs)
+3. [Troubleshooting](#troubleshooting-️)
+    - [OOMKilled error](#oomkilled-error)
 
 ## Learning 📖
 
@@ -41,3 +43,8 @@
 
 ## Blogs
 - [RedHat supported community platform to learn Kubernetes: kubebyexample.com](https://kubebyexample.com/)
+
+## Troubleshooting 🧰
+
+### OOMKilled error
+- [Spacelift Blog: Exit Code 137 – Fixing OOMKilled Kubernetes Error](https://spacelift.io/blog/oomkilled-exit-code-137)
