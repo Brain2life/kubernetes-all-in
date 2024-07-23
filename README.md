@@ -44,6 +44,7 @@
 
 ### Kubernetes probes
 - [Liveness probes are dangerous](https://srcco.de/posts/kubernetes-liveness-probes-are-dangerous.html)
+- [YouTube: Kubernetes Probes: How to Avoid Shooting Yourself in the Foot by Colin Breck](https://www.youtube.com/watch?v=UIHfzUvMAbM)
 
 ## Blogs
 - [RedHat supported community platform to learn Kubernetes: kubebyexample.com](https://kubebyexample.com/)
