@@ -11,6 +11,7 @@
     - [Kubernetes volumes](#kubernetes-volumes)
     - [Kubernetes networking](#kubernetes-networking)
     - [Kubernetes ingress](#kubernetes-ingress)
+    - [Kubernetes probes](#kubernetes-probes)
 2. [Blogs](#blogs)
 3. [Troubleshooting](#troubleshooting-️)
     - [OOMKilled error](#oomkilled-error)
@@ -40,6 +41,9 @@
 ### Kubernetes ingress
 - [Kubernetes Ingress Tutorial for Beginners | simply explained | Kubernetes Tutorial 22 Nana YouTube](https://www.youtube.com/watch?v=80Ew_fsV4rM)
 - [Kubernetes Ingress Tutorial For Beginners by Bibin Wilson](https://devopscube.com/kubernetes-ingress-tutorial/)
+
+### Kubernetes probes
+- [Liveness probes are dangerous](https://srcco.de/posts/kubernetes-liveness-probes-are-dangerous.html)
 
 ## Blogs
 - [RedHat supported community platform to learn Kubernetes: kubebyexample.com](https://kubebyexample.com/)
