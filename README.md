@@ -37,6 +37,7 @@
 - [A visual guide to Kubernetes networking fundamentals](https://opensource.com/article/22/6/kubernetes-networking-fundamentals)
 - [Understanding Kubernetes Networking. Part 2: POD Network, CNI, and Flannel CNI Plug-in](https://www.youtube.com/watch?v=U35C0EPSwoY)
 - [Introduction to CNI | Kubernetes Networking](https://www.youtube.com/watch?v=McIKOoPKgBk)
+- [Nginx blog: What Are Namespaces and cgroups, and How Do They Work?](https://blog.nginx.org/blog/what-are-namespaces-cgroups-how-do-they-work)
 
 ### Kubernetes ingress
 - [Kubernetes Ingress Tutorial for Beginners | simply explained | Kubernetes Tutorial 22 Nana YouTube](https://www.youtube.com/watch?v=80Ew_fsV4rM)
