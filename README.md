@@ -15,6 +15,9 @@
 2. [Blogs](#blogs)
 3. [Troubleshooting](#troubleshooting-️)
     - [OOMKilled error](#oomkilled-error)
+4. [EKS](#eks)
+    - [User Guides and Workshops](#user-guides-and-workshops)
+    - [EKS related tools](#eks-related-tools)
 
 ## Learning 📖
 
@@ -54,3 +57,13 @@
 
 ### OOMKilled error
 - [Spacelift Blog: Exit Code 137 – Fixing OOMKilled Kubernetes Error](https://spacelift.io/blog/oomkilled-exit-code-137)
+
+## EKS
+
+### User Guides and Workshops
+- [AWS User Guide: What is Amazon EKS?](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)
+- [EKS Workshop](https://www.eksworkshop.com/)
+- [Amazon EKS Blueprints for Terraform](https://aws-ia.github.io/terraform-aws-eks-blueprints/getting-started/)
+
+### EKS related tools
+- [Hardeneks: Runs checks to see if an EKS cluster follows EKS Best Practices.](https://github.com/aws-samples/hardeneks)
