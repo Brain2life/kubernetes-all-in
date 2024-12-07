@@ -64,6 +64,7 @@
 - [AWS User Guide: What is Amazon EKS?](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)
 - [EKS Workshop](https://www.eksworkshop.com/)
 - [Amazon EKS Blueprints for Terraform](https://aws-ia.github.io/terraform-aws-eks-blueprints/getting-started/)
+- [YouTube: Amazon EKS Explained](https://www.youtube.com/watch?v=E956xeOt050)
 
 ### EKS related tools
 - [Hardeneks: Runs checks to see if an EKS cluster follows EKS Best Practices.](https://github.com/aws-samples/hardeneks)
